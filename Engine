@@ -1,0 +1,6 @@
+class Engine():
+  def __init__():
+  def add_player()
+  def next():
+  def game_terminated():
+  
